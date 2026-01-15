@@ -1,2 +1,8 @@
 # LaLiga-2023-2024-Season-Analysis
-Conducted an in-depth analysis of the 2023-2024 LaLiga Season. Utilized python to visualize graphs which reflected important insights observed during the 2023-2024 season. Analysis were done on metrics such as top goal scorers, assisters of the season, number of clean sheets per team and win percentage for each team throughout the season to name a few. Also conducted bonus analysis on Real Madrid in terms of top assisters, scorers and players with most Goals+Assists in the team in the 2023-2024 LaLiga Season. The data is utilized from: https://www.kaggle.com/datasets/whisperingkahuna/la-liga-202324-players-and-team-insights
+This project presents a detailed analysis of the 2023–2024 LaLiga season, with an additional focused analysis on Real Madrid’s performance during the same season. The goal of this analysis is to uncover key trends, performance indicators, and team/player contributions using data-driven methods.
+
+## Data
+Utilized data https://www.kaggle.com/datasets/whisperingkahuna/la-liga-202324-players-and-team-
+
+## Analysis
+### Section 1 - LaLiga Table 2023-2024
