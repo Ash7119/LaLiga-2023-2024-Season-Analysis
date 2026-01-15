@@ -27,5 +27,7 @@ Utilized data from: https://www.kaggle.com/datasets/whisperingkahuna/la-liga-202
 - Possesion of LaLiga Teams 2023-2024 Season: A bar chart comparing the teams possesion.
 
 ### Section 5 - Clean Sheets Between LaLiga Teams 2023-2024
-- Clean Sheeets of LaLiga Teams 2023-2024 Season:
-- Percentage of Clean Sheeets of LaLiga Teams 2023-2024 Season
+- Clean Sheets of LaLiga Teams 2023-2024 Season: A bar chart which compares the number of clean sheets the team have in the season.
+- Percentage of Clean Sheeets of LaLiga Teams 2023-2024 Season: A bar chart which compares the percentage of the games that were clean sheets between the teams.
+
+### Section 6 -Top Scorers Laliga and Real Madrid 2023-2024
